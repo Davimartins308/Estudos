@@ -26,7 +26,7 @@ pyautogui.click(x=1104,y=483)
 pyautogui.moveTo((1076,537),duration = 2)
 time.sleep(1)
 pyautogui.click(x=1076,y=537)
-
+cruzeiro2022
 
 pyautogui.write("cruzeiro2022")
 

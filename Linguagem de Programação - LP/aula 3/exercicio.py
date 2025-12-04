@@ -1,0 +1,8 @@
+x= input('digitealgo')
+print('é um numero?', x.isnumeric())
+print('é um alfanumerico (numeros e letras)?', x.isalnum())
+print('e um alfabetico(letras)?', x.isalpha())
+print('esta em minusculo?', x.islower())
+print('esta em maiusculo?', x.isupper())
+print('e somente espaço?', x.isspace())
+print ('esta capitalizada(possui maiusculas e minusculas)', x.istitle())
